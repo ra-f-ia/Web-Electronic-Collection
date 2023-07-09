@@ -2,7 +2,7 @@
 Web Electronic Collection is E-commerce Web-based Project. Developed for selling of electronic appliances online to Customer and managing online store by Admin and Employee.
 
 **Overview**
-Web Electronic Collection is E-commerce Web-based Project. Developed for selling of electronic appliances online to Customer and managing online store by Admin and Employee.
+Web Electronic Collection is E-commerce Web-based Project Frontend. Developed for selling of electronic appliances online to Customer and managing online store by Admin and Employee.
 
 **Technologies Used:** 
 1. Front End: Html, CSS, JavaScript, Bootstrap
